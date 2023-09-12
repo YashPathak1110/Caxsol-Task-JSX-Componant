@@ -1,0 +1,92 @@
+.div1{
+  background-image: url("https://img.freepik.com/free-photo/landmarks-modern-city_1359-338.jpg");
+  width: 100%;
+  height: 130rem;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 120rem;
+  cursor: pointer;
+  
+  }
+.nav{
+  background-color: black;
+  opacity: 0.7;
+
+}
+.nav-item{
+  margin-left: 7%;
+  
+}
+.navbar-brand{
+  color: "black";
+  margin-left: "4%";
+  font-Size: "35px";
+  font-Family: "Arial Black";
+}
+.span1{
+  color: red;
+}
+.b1{
+  font-family: "Cooper Black";
+  font-size: 40px;
+}
+.btn{
+  border: 3px solid rgb(88, 81, 81);
+  color: aliceblue;
+  margin-left: 15rem;
+  width: "200px";
+  font-size: 22px;
+  font-family: "Britannic Bold";
+  border-radius: 20px;
+} 
+.btn:hover{
+  border: 3px solid black;
+  color: black;
+  background-color: white;
+  font-size: 22px;
+  border-radius: 15px;
+}
+.h1{
+  margin-left: 27%;
+  margin-top: 10%;
+  font-size: 55px;
+  font-family: Arial Black;
+}
+.p1{
+  font-size: 37px;
+  margin-left: 20%;
+  font-family: "Bahnschrift SemiBold SemiConden";
+}
+.cardH1{
+  text-align: center;
+  padding-top: 2%;
+  font-size: 60px;
+}
+.card2{
+  background-image: url("https://images.unsplash.com/photo-1508385082359-f38ae991e8f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvcnBvcmF0ZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D&w=1000&q=80");
+  width: 100%;
+  height: 1300px;
+  margin-top: "5rem";
+  text-align: center;
+  font-family: "Fixedsys";
+  background-size: cover;
+  color: aliceblue;
+}
+.card2:hover{
+  transform: scale(1.2);
+  transition: 2s;
+}
+.btn2{
+  background-color: #4444b357;
+  margin-left: 45rem;
+  width: 120px;
+  height: 50px;
+  border-radius: 30px;
+  color: aliceblue; 
+}
+.btn2:hover{
+  background-color: #0d0df1;
+  color: beige;
+  
+  transition: 0.7s;
+}
